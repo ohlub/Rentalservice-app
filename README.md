@@ -1,6 +1,7 @@
 # 딥러닝 기술을 활용한 대여 어플리케이션
 안양대학교 졸업 프로젝트<br>
-팀: 바위게
+팀: 바위게<br>
+email: dud991212@naver.com
 ### Priview image:
 ![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/22b28b07-b06c-431f-afc0-90f5473866ce)![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/5b7190b2-894d-463b-8bc0-c0f5869349e8)![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/495725c1-1939-48ce-85e0-d6136723cdce)
 ![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/37f7d315-5231-4f20-8352-d3696ff80ef4)![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/b2de1d24-b901-4f11-a6ff-f0e229acb652)![image](https://github.com/ohlub/Rentalservice-app/assets/129753604/0b9828eb-bea0-420d-be1b-da1576cf22b3)
