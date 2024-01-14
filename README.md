@@ -33,7 +33,7 @@ https://github.com/ohlub/Rentalservice-app/assets/129753604/db2aad2d-59b6-4494-9
 
 
  
-## test
+## Test
 1. Android Studio Flutter 환경 구축
 2. Project Import
 3. Main과 동일한 디렉토리에 Package 위치
